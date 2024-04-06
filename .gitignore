@@ -5,4 +5,6 @@ SSWEET/Provided_Data/Merged_aso_nearest_site.csv
 SSWEET/Provided_Data/Merged_aso_nearest_sites1.csv
 SSWEET/Model/
 SSWEET/Images/
-SSWEET\Evaluation_data.ipynb
+SSWEET/Evaluation_data.ipynb
+SSWEET/Regional_SWE.py
+SSWEET/Provided_Data/Sierras_Metadata.csv
