@@ -1,5 +1,8 @@
 SSWEET/Provided_Data/RegionTrain_Final.h5
 SSWEET/Provided_Data/Prediction_Sierras_Metadata.csv
 SSWEET/Provided_Data/Merged_aso_snotel_swe_data.csv
+SSWEET/Provided_Data/Merged_aso_nearest_site.csv
+SSWEET/Provided_Data/Merged_aso_nearest_sites1.csv
 SSWEET/Model/
 SSWEET/Images/
+SSWEET\Evaluation_data.ipynb
